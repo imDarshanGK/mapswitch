@@ -7,7 +7,6 @@
 
 Send a restaurant link to a friend. On iPhone → Apple Maps opens. On Android → Google Maps opens. On desktop → browser fallback. No app switching, no frustration.
 
-**https://mapswitch.netlify.app/r/{platform}/{id}**
 
 - 🚫 Zero backend — pure static HTML + JS
 - ⚙️ Config-driven — add platforms by editing `platforms.json`
